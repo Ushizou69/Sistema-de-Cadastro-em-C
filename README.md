@@ -6,6 +6,20 @@ Sistema desenvolvido em linguagem C  para a disciplina de Algoritmos e Programa�
 
 Cada funcionário possui um identificador de registro, nome e salário. Os dados cadastrados podem ser salvos em arquivo e posteriormente carregados para continuar o gerenciamento dos registros.
 
+## Como Instalar?
+Vá em <> Code, baixe o arquivo .zip:
+
+<img width="594" height="475" alt="image" src="https://github.com/user-attachments/assets/ae2056c3-a9dc-4c87-84d3-7749b90b6f7a" />
+
+<img width="675" height="608" alt="image" src="https://github.com/user-attachments/assets/c12da0ae-2af6-4831-8a3b-b83e63892e11" />
+
+e clique com botão direito e clique em extrair aqui:
+
+entre na pasta Sistema-de-Cadastro-em-C-main e procure o arquivo projetoFinal.exe e o clique duas vezes com o botão esquerdo, ou clique com o botão direito e clique em abrir.
+
+<img width="1115" height="628" alt="image" src="https://github.com/user-attachments/assets/c53a37cb-8101-4f0a-8d40-e9e5bc079a9a" />
+
+
 ## Funcionalidades
 
 * Cadastro de funcionários com ID, nome e salário;

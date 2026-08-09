@@ -1,11 +1,8 @@
-# Sistema-de-Cadastro-em-C
-Projeto desenvolvido para a disciplina de Algoritmos e Programação II para a Graduação do curso de Análise Desenvolvimento de Sistemas (ADS); este projeto simula um sistema de cadastro de clientes e foi feito com os colaborador Matheus N..
-
 # Sistema de Cadastro de Funcionários
 
 ## Descrição
 
-Sistema desenvolvido em linguagem C para realizar o cadastro e gerenciamento de funcionários de uma empresa. O programa permite inserir, listar e armazenar dados de funcionários, utilizando alocação dinâmica de memória e persistência dos registros em um arquivo binário.
+Sistema desenvolvido em linguagem C  para a disciplina de Algoritmos e Programação II para a Graduação do curso de Análise Desenvolvimento de Sistemas (ADS); este sistema permite realizar o cadastro e gerenciamento de funcionários de uma empresa, o programa pode inserir, listar e armazenar dados de funcionários, utilizando alocação dinâmica de memória e persistência dos registros em um arquivo binário. Este projeto foi feito em parceria com o colaborador Matheus N..
 
 Cada funcionário possui um identificador de registro, nome e salário. Os dados cadastrados podem ser salvos em arquivo e posteriormente carregados para continuar o gerenciamento dos registros.
 
